@@ -61,7 +61,7 @@ BACKEND_CORS_ORIGINS = os.getenv(
 )  # a string of origins separated by commas, e.g: 'http://localhost, http://localhost:4200, http://localhost:3000
 
 # ~~~~~ APP ~~~~~
-PROJECT_NAME = os.getenv('PROJECT_NAME', 'Fastapi')
+PROJECT_NAME = os.getenv('PROJECT_NAME', 'People')
 
 # ~~~~~ EMAIL ~~~~~
 SENTRY_DSN = os.getenv('SENTRY_DSN')
