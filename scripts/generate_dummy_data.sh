@@ -1,0 +1,1 @@
+python core/utils/init_data.py
